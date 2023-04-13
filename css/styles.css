@@ -70,13 +70,6 @@ h3 {
     padding: 50px 0 20px;
 }
 
-.top-cloud {
-    
-    right: 375px;
-    top: 200px;
-    height: 60px;
-}
-
 .intro {
     width: 20%;
     margin: auto;
@@ -84,13 +77,6 @@ h3 {
 
 p {
     line-height: 2;
-}
-
-.bottom-cloud {
-    
-    left: 375px;
-    bottom: 400px;
-    height: 70px;
 }
 
 .mountain-img {
